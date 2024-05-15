@@ -4,19 +4,19 @@ This repository contains my solutions for the projects required to earn the free
 
 ## Projects
 
-1. **Palindrome Checker**: [Link to Project](https://github.com/BogdanBargaoanu/jsAlg-DataStructCertification/tree/main/palindrome)
+1. **Palindrome Checker**: [Link to app](https://palindromecheckerfreecodecamp.netlify.app/)
    - Description: A function to determine if a given string is a palindrome.
 
-2. **Roman Numeral Converter**: [Link to Project](#)
+2. **Roman Numeral Converter**: [Link to app](https://convertertoroman.netlify.app/)
    - Description: A function to convert a given number into a Roman numeral.
 
-3. **Caesar's Cipher**: [Link to Project](#)
+3. **Caesar's Cipher**: [Link to app](#)
    - Description: A function to decode a ROT13 encoded string.
 
-4. **Telephone Number Validator**: [Link to Project](#)
+4. **Telephone Number Validator**: [Link to app](#)
    - Description: A function to validate US telephone numbers.
 
-5. **Cash Register**: [Link to Project](#)
+5. **Cash Register**: [Link to app](#)
    - Description: A function to calculate the change in a cash register drawer.
 
 ## About freeCodeCamp
