@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #app {
@@ -110,4 +111,10 @@ button:hover {
 
 button:active {
   background-color: #7f7f7f;
+}
+
+#results-div {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
 }
