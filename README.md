@@ -5,10 +5,13 @@ This repository contains my solutions for the projects required to earn the free
 ## Projects
 
 1. **Palindrome Checker**: [Link to app](https://palindromecheckerfreecodecamp.netlify.app/)
-   - Description: A function to determine if a given string is a palindrome.
+   - Description: A website which determines if a given string is a palindrome.
 
 2. **Roman Numeral Converter**: [Link to app](https://convertertoroman.netlify.app/)
-   - Description: A function to convert a given number into a Roman numeral.
+   - Description: A website which converts a given number into a Roman numeral.
+     
+3. **Telephone Number Validator**: [Link to app](https://telephone-validator-fcc.netlify.app/)
+   - Description: A website which validates if a given telephone number is a valid US number.
 
 ## About freeCodeCamp
 
