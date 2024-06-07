@@ -10,3 +10,20 @@ let cid = [
   ["TWENTY", 60],
   ["ONE HUNDRED", 100]
 ];
+
+const changeInDrawer = document.getElementById('change-in-drawer');
+const changeDue = document.getElementById('change-due');
+const cash = document.getElementById('cash');
+const buy = document.getElementById('purchase-btn');
+
+// Display the change in the drawer
+displayChangeInDrawer();
+
+function displayChangeInDrawer() {
+  let change = '<ul>';
+  cid.forEach((item) => {
+    change += `<li>${item[0]}: ${item[1]}</li>`;
+  });
+  change += '</ul>';
+  changeInDrawer.innerHTML = change;
+}
