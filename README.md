@@ -15,6 +15,9 @@ This repository contains my solutions for the projects required to earn the free
 
 4. **Cash Register**: [Link to app](https://cash-register-fcc.netlify.app/)
    - Description: A website which simulates a cash register.
+  
+5. **Pokemon Search** [Link to app](https://api-pokemon-search.netlify.app/)
+   - Description: A website for displaying info from a list of pokemons using an API.
      
 ## About freeCodeCamp
 
