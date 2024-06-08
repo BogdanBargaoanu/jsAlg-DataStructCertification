@@ -13,6 +13,9 @@ This repository contains my solutions for the projects required to earn the free
 3. **Telephone Number Validator**: [Link to app](https://telephone-validator-fcc.netlify.app/)
    - Description: A website which validates if a given telephone number is a valid US number.
 
+4. **Cash Register**: [Link to app](https://cash-register-fcc.netlify.app/)
+   - Description: A website which simulates a cash register.
+     
 ## About freeCodeCamp
 
 [freeCodeCamp](https://www.freecodecamp.org/) is a nonprofit organization that provides a platform for learning and practicing coding skills. It offers a range of certifications in various programming disciplines, including web development, data science, and algorithms.
